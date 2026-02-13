@@ -175,10 +175,10 @@ export default function Notebook() {
               <p className="font-handwriting text-[1.25rem] text-stone-700 leading-[1.6]">
                 Happy Valentine's Day, Bebe! I hope you know that I love you with all my heart. 
                 As much as I want to celebrate this day with you, I know that you are busy din sa school works. 
-                Naiintindihan ko 'yun, bebe kaya sana huwag mong isipin na mapalayo ang loob ko kapag hindi tayo nagkakausap kasi hindi 'yun mangyayari, okiii? 
+                Naiintindihan ko 'yun, bebe kaya sana huwag mong isipin na mapapalayo ang loob ko kapag hindi tayo nagkakausap kasi hindi 'yun mangyayari, okiii? 
                 <br /><br />
                 I may not be there with you pero sana naaabot ka ng pagmamahal ko mula dine sa Sta. Maria hehehe. 
-                I also want to say na super swerte ko na nakilala kita kasi you make me feel seen and valued and that's enough with me, my Biyaya (blessing from your name Bea). 
+                I also want to say na super swerte ko na nakilala kita kasi you make me feel loved, seen and valued and that's enough for me, my Biyaya (Blessing from the root word Bea). 
                 Huhuys alam kong kuya Kim na naman pero yaena wala e mahal kita HAHAHAHAHAHA. 
                 <br /><br />
                 I just hope that we get through this rough patch sa buhay natin and maipagpatuloy itong namamagitan sa'tin. 
