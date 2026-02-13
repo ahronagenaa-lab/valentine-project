@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&family=Playfair+Display:ital@0;1&display=swap');
+@import "tailwindcss";
+
+body {
+  background-color: #f3f4f6;
+  margin: 0;
+  overflow: hidden;
+}
+
+.font-handwriting {
+  font-family: 'Dancing Script', cursive;
+}
+
+.stf__parent {
+  background-color: transparent !important;
+}
+
+.valentine-book {
+  box-shadow: 0 30px 60px rgba(0,0,0,0.12);
+}
