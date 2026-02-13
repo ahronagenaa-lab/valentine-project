@@ -183,6 +183,12 @@ export default function Notebook() {
                 <br /><br />
                 I just hope that we get through this rough patch sa buhay natin and maipagpatuloy itong namamagitan sa'tin. 
                 I may not be able to give you something tangible rn, but my heart belongs to you and only you. I love you very much, bebe!
+                <br /><br />
+                Happy Valentine's Day ulit, my Bebe! Miss na miss na kita.
+                <br /><br />
+                Yours truly,
+                <br />
+                Ahron
               </p>
             </div>
           </PaperPage>
